@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T09:53:55.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8060BZAzdLIGK0M0bAT5" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T09:55:28.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="UYeJnoSVa4-vDV2VhpW3" version="14.1.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2046" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xbg73TrRrU6xvPLChIuY-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;用户登录时序图&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;dashed=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="370" y="20" width="180" height="40" as="geometry" />
+          <mxGeometry x="370" y="28" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
